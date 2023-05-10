@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koline-1/movie-with-react.git/static/css/main.79d5fdea.css",
+    "main.js": "/koline-1/movie-with-react.git/static/js/main.f29ce1f4.js",
+    "index.html": "/koline-1/movie-with-react.git/index.html",
+    "main.79d5fdea.css.map": "/koline-1/movie-with-react.git/static/css/main.79d5fdea.css.map",
+    "main.f29ce1f4.js.map": "/koline-1/movie-with-react.git/static/js/main.f29ce1f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d5fdea.css",
+    "static/js/main.f29ce1f4.js"
+  ]
+}
